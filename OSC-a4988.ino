@@ -1,7 +1,5 @@
 /* COMMENT CA MARCHE ?
- * 
  * Quand on envoie un float sur /oscControl/slider1 l'esp effectue ce nombre de pulses sur STEP_PIN avec une periode d'environ 4ms
- *
  */
 
 
